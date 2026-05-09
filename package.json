@@ -1,5 +1,5 @@
 {
-  "name": "smn-lib",
+  "name": "@nakarinsmn/smn-lib",
   "version": "1.0.0",
   "description": "SMN React UI Component Library — Toast, Modal, SpeedDial with Tailwind CSS & React Icons",
   "main": "dist/index.js",
@@ -47,5 +47,8 @@
     "speeddial",
     "smn"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }

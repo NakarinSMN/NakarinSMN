@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { useToast, ToastContainer, Modal, SpeedDial } from 'smn-lib'
-import 'smn-lib/dist/index.css'
+import { useToast, ToastContainer, Modal, SpeedDial } from '@nakarinsmn/smn-lib'
+import '@nakarinsmn/smn-lib/dist/index.css'
 import { BsPlus, BsHeart, BsShare, BsChat } from 'react-icons/bs'
 import './App.css'
 

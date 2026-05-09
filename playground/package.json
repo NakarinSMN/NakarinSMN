@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
-    "smn-lib": "../"
+    "@nakarinsmn/smn-lib": "../"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
